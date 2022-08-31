@@ -11,3 +11,5 @@
     - [https://github.com/vuejs/core/issues/4294#issuecomment-1204534444](https://github.com/vuejs/core/issues/4294#issuecomment-1204534444)
 - `NestJS` 不支持 `ESM packages`（目前的格式是 `CommonJS`，因为 [sindresorhus 神](https://github.com/sindresorhus) 目前大部分的 package 都是 `Pure ESM`，如果 `NestJS` 不作出更新，很多积极维护的 `modern packages` 就用不了，惨😂）
     - [https://github.com/nestjs/nest/pull/8736](https://github.com/nestjs/nest/pull/8736)
+- `Arco Vue` 组件库中 `<form-item>` 组件的 `content-class` 属性不起作用（实际上 class 名称已追加到 dom 中，但 class 的定义却不见了）
+    - [https://github.com/arco-design/arco-design-vue/issues/1587](https://github.com/arco-design/arco-design-vue/issues/1587)
