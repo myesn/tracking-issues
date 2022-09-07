@@ -15,6 +15,8 @@
     - [https://github.com/apache/shenyu/issues/3166](https://github.com/apache/shenyu/issues/3166)
 - Docker-Compose db(mysql) image not support arm64(Raspberry Pi 4 Model B) architecture（实在不好意思，没有精力协助测试了）
     - [https://github.com/apache/shenyu/issues/3163](https://github.com/apache/shenyu/issues/3163)
+- Both Arthas and the container stopped running（实在不好意思，没有精力协助测试了）
+    - [https://github.com/alibaba/arthas/issues/2142](https://github.com/alibaba/arthas/issues/2142)
 
 # Closed Issues
 
