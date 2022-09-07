@@ -19,6 +19,8 @@
     - [https://github.com/alibaba/arthas/issues/2142](https://github.com/alibaba/arthas/issues/2142)
 - Why heartbeat interval minimum is 20 seconds?
     - [https://github.com/louislam/uptime-kuma/issues/606](https://github.com/louislam/uptime-kuma/issues/606)
+- Allows Dim to manage local video
+    - [https://github.com/Dusk-Labs/dim/issues/287](https://github.com/Dusk-Labs/dim/issues/287)
 
 # Closed Issues
 
