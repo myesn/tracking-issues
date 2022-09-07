@@ -11,7 +11,10 @@
     - [https://github.com/vuejs/core/issues/4294#issuecomment-1204534444](https://github.com/vuejs/core/issues/4294#issuecomment-1204534444)
 - `NestJS` 不支持 `ESM packages`（目前的格式是 `CommonJS`，因为 [sindresorhus 神](https://github.com/sindresorhus) 目前大部分的 package 都是 `Pure ESM`，如果 `NestJS` 不作出更新，很多积极维护的 `modern packages` 就用不了，惨😂）
     - [https://github.com/nestjs/nest/pull/8736](https://github.com/nestjs/nest/pull/8736)
-
+- Docker-Compose shenyu services image not support arm64(Raspberry Pi 4 Model B) architecture（实在不好意思，没有精力协助测试了）
+    - [https://github.com/apache/shenyu/issues/3166](https://github.com/apache/shenyu/issues/3166)
+- Docker-Compose db(mysql) image not support arm64(Raspberry Pi 4 Model B) architecture（实在不好意思，没有精力协助测试了）
+    - [https://github.com/apache/shenyu/issues/3163](https://github.com/apache/shenyu/issues/3163)
 
 # Closed Issues
 
