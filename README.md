@@ -21,6 +21,8 @@
     - [https://github.com/louislam/uptime-kuma/issues/606](https://github.com/louislam/uptime-kuma/issues/606)
 - Allows Dim to manage local video
     - [https://github.com/Dusk-Labs/dim/issues/287](https://github.com/Dusk-Labs/dim/issues/287)
+- bug: Migration fails if "logto" DB already exists
+    - [https://github.com/logto-io/logto/issues/1844](https://github.com/logto-io/logto/issues/1844)
 
 # Closed Issues
 
