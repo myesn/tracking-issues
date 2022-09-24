@@ -23,6 +23,8 @@
     - [https://github.com/Dusk-Labs/dim/issues/287](https://github.com/Dusk-Labs/dim/issues/287)
 - bug: Migration fails if "logto" DB already exists
     - [https://github.com/logto-io/logto/issues/1844](https://github.com/logto-io/logto/issues/1844)
+- feature request: Support for non-root path deployments
+    - [https://github.com/logto-io/logto/issues/1997](https://github.com/logto-io/logto/issues/1997)
 
 # Closed Issues
 
