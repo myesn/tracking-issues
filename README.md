@@ -25,6 +25,8 @@
     - [https://github.com/logto-io/logto/issues/1844](https://github.com/logto-io/logto/issues/1844)
 - feature request: Support for non-root path deployments
     - [https://github.com/logto-io/logto/issues/1997](https://github.com/logto-io/logto/issues/1997)
+- tRPC with NestJS Application
+    - [https://github.com/trpc/trpc/discussions/1504](https://github.com/trpc/trpc/discussions/1504)
 
 # Closed Issues
 
