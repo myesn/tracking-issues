@@ -30,5 +30,7 @@
 
 # Closed Issues
 
+- nginxconfig.io: Configuration persistence
+    - [https://github.com/digitalocean/nginxconfig.io/issues/397](https://github.com/digitalocean/nginxconfig.io/issues/397)
 - `Arco Vue` 组件库中 `<form-item>` 组件的 `content-class` 属性不起作用（实际上 class 名称已追加到 dom 中，但 class 的定义却不见了）
     - [https://github.com/arco-design/arco-design-vue/issues/1587](https://github.com/arco-design/arco-design-vue/issues/1587)
