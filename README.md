@@ -27,6 +27,9 @@
     - [https://github.com/logto-io/logto/issues/1969](https://github.com/logto-io/logto/issues/1969)
 - tRPC with NestJS Application
     - [https://github.com/trpc/trpc/discussions/1504](https://github.com/trpc/trpc/discussions/1504)
+- Windows 系统中 Docker Desktop 启动后，Vmmem 软件占用了很多的内存
+    - [High memory usage from VMMEM with docker desktop windows x64 V4.12.0](https://github.com/docker/for-win/issues/12944)
+    - [Google 相关内容的搜索结果](https://www.google.com/search?q=high+memory+usage+when+docker+desktop+start)
 
 # Closed Issues
 
