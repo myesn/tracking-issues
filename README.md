@@ -30,6 +30,8 @@
 - Windows 系统中 Docker Desktop 启动后，Vmmem 软件占用了很多的内存
     - [High memory usage from VMMEM with docker desktop windows x64 V4.12.0](https://github.com/docker/for-win/issues/12944)
     - [Google 相关内容的搜索结果](https://www.google.com/search?q=high+memory+usage+when+docker+desktop+start)
+- ABP CLI `new` 指令中指定 `--ui none` 参数后，会在当前目录下创建一个 `aspnet-core` 子目录
+    - [Unnecessary subfolder was created when using abp CLI](https://github.com/abpframework/abp/issues/14579)
 
 # Closed Issues
 
