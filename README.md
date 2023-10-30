@@ -32,6 +32,8 @@
     - [Google 相关内容的搜索结果](https://www.google.com/search?q=high+memory+usage+when+docker+desktop+start)
 - ABP CLI `new` 指令中指定 `--ui none` 参数后，会在当前目录下创建一个 `aspnet-core` 子目录
     - [Unnecessary subfolder was created when using abp CLI](https://github.com/abpframework/abp/issues/14579)
+- ABP `<abp-input asp-for="RemoteServerId" />` 会在外层包一个 `mb-3` 的 `div` 元素
+    - [Remove mb-3 that surrounds abp-input mvc tag helper](https://github.com/abpframework/abp/issues/17948)
 
 # Closed Issues
 
