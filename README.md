@@ -36,6 +36,8 @@
     - [Remove mb-3 that surrounds abp-input mvc tag helper](https://github.com/abpframework/abp/issues/17948)
 - 在 .NET 7 中使用 Office Interop（本地测试发现不支持，只有 .NET Framework 框架的项目才支持）
     - [Access to Office.Interop from .NET Core?](https://github.com/dotnet/core/issues/402)
+    - [Office Automation in dotnet core - are there any plans for this?](https://github.com/dotnet/core/issues/409)
+
 # Closed Issues
 
 - nginxconfig.io: Configuration persistence
