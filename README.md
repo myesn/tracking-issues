@@ -38,7 +38,7 @@
     - [Access to Office.Interop from .NET Core?](https://github.com/dotnet/core/issues/402)
     - [Office Automation in dotnet core - are there any plans for this?](https://github.com/dotnet/core/issues/409)
 - NextUI 库的动态数据 `<Table>` 组件设置 `classNames` 属性后，再修改数据，整个 `<Table>` 组件都会重新渲染
-    - [Table: setting the classNames the entire table will be re-rendered](https://github.com/nextui-org/nextui/issues/2019)
+    - [Table: Rerender the entire table after modifying the data](https://github.com/nextui-org/nextui/issues/2019)
 
 # Closed Issues
 
