@@ -37,8 +37,7 @@
 - 在 .NET 7 中使用 Office Interop（本地测试发现不支持，只有 .NET Framework 框架的项目才支持）
     - [Access to Office.Interop from .NET Core?](https://github.com/dotnet/core/issues/402)
     - [Office Automation in dotnet core - are there any plans for this?](https://github.com/dotnet/core/issues/409)
-- NextUI 库的动态数据 `<Table>` 组件设置 `classNames` 属性后，再修改数据，整个 `<Table>` 组件都会重新渲染
-    - [Table: Rerender the entire table after modifying the data](https://github.com/nextui-org/nextui/issues/2019)
+
 
 # Closed Issues
 
@@ -46,3 +45,5 @@
     - [https://github.com/digitalocean/nginxconfig.io/issues/397](https://github.com/digitalocean/nginxconfig.io/issues/397)
 - `Arco Vue` 组件库中 `<form-item>` 组件的 `content-class` 属性不起作用（实际上 class 名称已追加到 dom 中，但 class 的定义却不见了）
     - [https://github.com/arco-design/arco-design-vue/issues/1587](https://github.com/arco-design/arco-design-vue/issues/1587)
+- NextUI 库的动态数据 `<Table>` 组件设置 `classNames` 属性后，再修改数据，整个 `<Table>` 组件都会重新渲染
+    - [Table: Rerender the entire table after modifying the data](https://github.com/nextui-org/nextui/issues/2019)
