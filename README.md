@@ -49,3 +49,5 @@
     - [Table: Rerender the entire table after modifying the data](https://github.com/nextui-org/nextui/issues/2019)
 - Strapi 的 `api/users/me?populate=role` 接口不返回 `role` 对象
     - [api/users/me?populate=role not working](https://github.com/strapi/strapi/issues/16217)
+- yarn create xxx 时抛错 `detective-postcss@5.1.1: The engine "node" is incompatible with this module`
+    - [detective-postcss: The engine "node" is incompatible with this module](https://github.com/strapi/strapi/issues/16106#issuecomment-1484957949)
