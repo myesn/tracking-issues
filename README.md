@@ -37,6 +37,8 @@
 - 在 .NET 7 中使用 Office Interop（本地测试发现不支持，只有 .NET Framework 框架的项目才支持）
     - [Access to Office.Interop from .NET Core?](https://github.com/dotnet/core/issues/402)
     - [Office Automation in dotnet core - are there any plans for this?](https://github.com/dotnet/core/issues/409)
+- `openapi-generator-cli` 使用 `oneOf` 描述字段时生成了不存在的 `instanceOf<childType>`  函数
+    - [[BUG] [TypeScript-Fetch] Incorrectly generated models when using oneOf](https://github.com/OpenAPITools/openapi-generator/issues/14763)
 
 
 # Closed Issues
