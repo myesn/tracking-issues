@@ -39,7 +39,8 @@
     - [Office Automation in dotnet core - are there any plans for this?](https://github.com/dotnet/core/issues/409)
 - `openapi-generator-cli` 使用 `oneOf` 描述字段时生成了不存在的 `instanceOf<childType>`  函数
     - [[BUG] [TypeScript-Fetch] Incorrectly generated models when using oneOf](https://github.com/OpenAPITools/openapi-generator/issues/14763)
-
+- FastAPI `0.136.0` 版本接口参数 `files: Annotated[list[UploadFile], File()]` 在 `/docs` 中显示为 `string` 而不是文件选择框
+    - https://github.com/fastapi/fastapi/pull/15069
 
 # Closed Issues
 
